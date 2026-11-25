@@ -4,12 +4,12 @@
 
 ### Hello! I'm Deepika 👋
 
-B.E. Computer Science and Engineering student at **AMC Engineering College**.
+B.E. Computer Science and Engineering student - Data science at **AMC Engineering College**.
 
 I enjoy building practical web applications, improving my programming skills, and solving problems through technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-t-283439381/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-451126?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepikat-rgb)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-451126?style=flat-square&logo=github&logoColor=white)](https://github.com/deepikat0911)
 
 </div>
 
@@ -32,18 +32,12 @@ I enjoy building practical web applications, improving my programming skills, an
 ## Featured Projects
 
 ### Queue-less College Canteen Management System
-*In progress · Full-stack web application*
+*SFull-stack web application*
 
-- Building a digital canteen ordering experience intended to reduce student waiting time.
-- Includes separate student and kitchen management dashboards.
-- Planned features include order management, order tracking, order history, and daily, weekly, and monthly sales summaries.
-
-### BusBuddy — Smart College Bus Management System
-*Academic / personal project*
-
-- A college-focused web project designed to make bus-related information and student access easier.
-
-> Project repository and demo links can be added here once the final public URLs are confirmed.
+- Worked on internship tasks involving project architecture and application development
+- Worked on backend development and frontend integration
+- Gained practical exposure to connecting frontend interfaces with backend APIs
+- Worked towards building a complete deployed application
 
 ## Technical Skills
 
@@ -58,8 +52,10 @@ I enjoy building practical web applications, improving my programming skills, an
 
 - Introduction to Java
 - Internet of Things
-- Introduction to Cyber Security
 - Basic Computer
+- Exploring Computers
+- EY-Microsoft AI Skills Passport
+- GenAI Powdered Data Analytics Job Simulation by Forage
 
 ## Education
 
@@ -69,11 +65,11 @@ I enjoy building practical web applications, improving my programming skills, an
 
 ## GitHub Activity
 
-Your contribution history is available directly on the [GitHub contributions page](https://github.com/Deepikat-rgb). This profile intentionally does not display invented contribution counts, streaks, language percentages, or rankings.
+Your contribution history is available directly on the [GitHub contributions page](https://github.com/deepikat0911). This profile intentionally does not display invented contribution counts, streaks, language percentages, or rankings.
 
 ## Connect With Me
 
-- **GitHub:** [@Deepikat-rgb](https://github.com/Deepikat-rgb)
+- **GitHub:** [@Deepikat-rgb](https://github.com/deepikat0911)
 - **LinkedIn:** [Deepika T](https://www.linkedin.com/in/deepika-t-283439381/)
 
 <div align="center">
