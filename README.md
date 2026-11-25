@@ -4,7 +4,7 @@
 
 ### Hello! I'm Deepika 👋
 
-B.E. Computer Science and Engineering student - Data science at **AMC Engineering College**.
+B.E. Computer Science and Engineering - Data science student at **AMC Engineering College**.
 
 I enjoy building practical web applications, improving my programming skills, and solving problems through technology.
 
