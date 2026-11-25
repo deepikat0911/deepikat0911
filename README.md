@@ -32,7 +32,7 @@ I enjoy building practical web applications, improving my programming skills, an
 ## Featured Projects
 
 ### Queue-less College Canteen Management System
-*SFull-stack web application*
+*Full-stack web application*
 
 - Worked on internship tasks involving project architecture and application development
 - Worked on backend development and frontend integration
