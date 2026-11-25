@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**deepikat0911/deepikat0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/deepika-hero.svg" alt="Deepika T — Computer Science and Data Science" width="100%">
 
-Here are some ideas to get you started:
+### Hello! I'm Deepika 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.E. Computer Science and Engineering student at **AMC Engineering College**.
+
+I enjoy building practical web applications, improving my programming skills, and solving problems through technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-t-283439381/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-451126?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepikat-rgb)
+
+</div>
+
+---
+
+## About Me
+
+- 🎓 Pursuing **B.E. in Computer Science and Engineering — Data Science** at AMC Engineering College.
+- 💻 Interested in **full-stack web development**, data science, and problem solving.
+- 🌱 Currently strengthening my skills in Java, Python, C, HTML, CSS, and JavaScript.
+- 🚀 Interested in learning through internships and hands-on software projects.
+
+## Experience
+
+**Full Stack Developer Intern — SWYNEX Technologies**  
+*Remote | Oct–Nov 2026*
+
+- Worked on project architecture, backend and frontend development, API integration, and deployment tasks as part of the internship workflow.
+
+## Featured Projects
+
+### Queue-less College Canteen Management System
+*In progress · Full-stack web application*
+
+- Building a digital canteen ordering experience intended to reduce student waiting time.
+- Includes separate student and kitchen management dashboards.
+- Planned features include order management, order tracking, order history, and daily, weekly, and monthly sales summaries.
+
+### BusBuddy — Smart College Bus Management System
+*Academic / personal project*
+
+- A college-focused web project designed to make bus-related information and student access easier.
+
+> Project repository and demo links can be added here once the final public URLs are confirmed.
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Java · Python · C |
+| Web Development | HTML · CSS · JavaScript |
+| Tools | Git · GitHub · Visual Studio Code |
+| Interests | Full-stack development · Data science · Problem solving |
+
+## Certifications
+
+- Introduction to Java
+- Internet of Things
+- Introduction to Cyber Security
+- Basic Computer
+
+## Education
+
+- **AMC Engineering College** — B.E. Computer Science and Engineering (Data Science), expected 2029 · Current CGPA: 9.1/10
+- **Loyola Composite PU College** — Pre-University Course, 2025 · 92.8%
+- **St. Philomena English School** — SSLC, 2023 · 77.8%
+
+## GitHub Activity
+
+Your contribution history is available directly on the [GitHub contributions page](https://github.com/Deepikat-rgb). This profile intentionally does not display invented contribution counts, streaks, language percentages, or rankings.
+
+## Connect With Me
+
+- **GitHub:** [@Deepikat-rgb](https://github.com/Deepikat-rgb)
+- **LinkedIn:** [Deepika T](https://www.linkedin.com/in/deepika-t-283439381/)
+
+<div align="center">
+<img src="assets/deepika-footer.svg" alt="Create, learn, build" width="100%">
+</div>
